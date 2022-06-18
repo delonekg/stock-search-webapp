@@ -72,4 +72,4 @@ def home():
 
     return render_template("form.html")
 
-app.run(debug=True)
+app.run()
